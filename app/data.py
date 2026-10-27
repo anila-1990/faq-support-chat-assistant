@@ -23,4 +23,10 @@ FAQS = [
         "answer": "Email support@example.com. We reply within 4 hours.",
         "keywords": ["help", "human", "agent", "talk to someone", "email", "phone", "complaint"],
     },
+    {
+        "id": 5,
+        "question": "How do I change my email address?",
+        "answer": "Go to Account Settings, then Profile, and edit your email address. You'll get a confirmation link at the new address.",
+        "keywords": ["update email", "new email", "wrong email", "change address", "profile", "edit account"],
+    },
 ]
