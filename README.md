@@ -1,4 +1,4 @@
-
+![Tests](https://github.com/anila-1990/faq-support-chat-assistant/actions/workflows/tests.yml/badge.svg)
 **Live demo:** https://your-app-name.onrender.com/chat
 
 
